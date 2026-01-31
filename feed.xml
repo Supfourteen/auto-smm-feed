@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Auto SMM Agent Feed</title>
+    <link>https://github.com/ВАШ_ЛОГИН/auto-smm-feed</link>
+    <description>RSS feed for SMMBox auto-posting</description>
+    <language>ru</language>
+    <!-- Новые посты будут добавляться сюда автоматически -->
+</channel>
+</rss>
